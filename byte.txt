@@ -1,0 +1,4 @@
+hello from git
+ git init
+git add .
+
